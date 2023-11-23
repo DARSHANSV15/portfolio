@@ -427,6 +427,7 @@ nav .fas {
         /* background: url(./images/phone-background.png); */
         background-size: cover;
         background-attachment: fixed;
+        height: 98vh;
     }
 
     .tag {
