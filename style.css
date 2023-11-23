@@ -433,7 +433,7 @@ nav .fas {
         box-sizing: border-box;
         width: fit-content;
         padding: 10px;
-        font-size: 10px;
+        font-size: 15px;
         text-align: left;
         border-radius: 40px;
         background: #262626;
@@ -441,12 +441,12 @@ nav .fas {
     
 
     .header-text {
-        margin-top: 90%;
-        font-size: 16px;
+        margin-top: 50%;
+        font-size: 20px;
     }
 
     .header-text h1 {
-        font-size: 30px;
+        font-size: 40px;
     }
 
     nav .fas {
@@ -478,6 +478,12 @@ nav .fas {
         top: 10px;
         left: 120px;
         cursor: pointer;
+    }
+
+    #about {
+        padding-top: 0;
+        padding-bottom: 20px;
+        color: #ababab;
     }
 
     .about-col-1, .about-col-2 {
