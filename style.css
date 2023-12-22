@@ -44,6 +44,7 @@ nav {
     padding: 1px 10%;
     background-color: #262626;
     position: fixed;
+    z-index: 10;
 }
 
 .logo {
